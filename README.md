@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Navinha Nervosa
+
+Olá, seja bem vindo ao repositório do Navinha Nervosa, jogo desenvolvido na linguagem de programação Lua utilizando o framework Love2d.
 
 You can use the [editor on GitHub](https://github.com/jrdulahan/navinha-nervosa/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
